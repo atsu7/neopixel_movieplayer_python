@@ -50,11 +50,3 @@ while(cap.isOpened()):
         break
 
 cap.release()
-
-
-
-# while True:
-#     # Comment this line out if you have RGBW/GRBW NeoPixels
-#     pixels.fill((0, 0, 255))
-#     pixels.show()
-#     time.sleep(1)
